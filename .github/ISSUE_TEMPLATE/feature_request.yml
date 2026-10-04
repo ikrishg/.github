@@ -1,7 +1,7 @@
 name: Feature request
 description: Suggest a change or addition.
 title: "[FEATURE] <short description>"
-labels: ["enhancement"]
+labels: ["⭐ goal: addition", "🚦 status: awaiting triage"]
 body:
   - type: checkboxes
     id: duplicates

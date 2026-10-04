@@ -16,7 +16,7 @@
 
 ## Opened by
 
-<!-- Agent name, Cloud Agent link, or person—if you know. -->
+<!-- Agent name, Cloud Agent link, or person—if you know. If a coding agent opened this PR, add the `agent: opened` label after you create it. Use `agent: needs human` or `agent: verify` only when that situation applies. -->
 
 ## Issue link
 
