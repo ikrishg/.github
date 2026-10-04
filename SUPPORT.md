@@ -1,15 +1,15 @@
-# 🫂 Need help?
+# Support
 
-I believe that Open Source is an amazing thing to happen to mankind. I truly appreciate the community for helping me and teaching me a lot of things!
+For bugs and feature ideas, use the issue templates in the repository you care about.
 
-I'm happy to help you to contribute or use any of my projects 💖
+Before asking for help:
 
-I suggest using the following resources **before** seeking help:
+1. Read that project’s documentation.
+2. Search for the error or behavior; many problems are environmental rather than project-specific.
 
-- 📖 Read the documentation for the project
-- 🔍 Search on Google if it is a generic issue (not related to the project)
+If you still need a hand:
 
-If none of those work, reach out to me on the following platforms:
+- [Discord](https://dub.sh/kultiverse-discord) (preferred for questions and feedback)
+- [X (@ikrishg)](https://x.com/ikrishg)
 
-- **RECOMMENDED**: Join my [discord server](https://dub.sh/kultiverse-discord)
-- Alternatively, you can also Tweet out to me: [@xkrishguptaa](https://twitter.com/xkrishguptaa)
+Security issues are not handled here. Email krish@krishg.com as described in `SECURITY.md`.

@@ -1,18 +1,23 @@
-# 👨🏻‍⚖️ Governance
+# Governance
 
-Most of the repositories under my account are `NOT` huge libraries or projects that a lot of people work on.
+Krish Gupta ([@ikrishg](https://github.com/ikrishg)) owns and decides for repositories under this account.
 
-> Important repository names that start with `learning` are where I push updates of my learnings, nothing is needed of contributions there! You can make issues for suggestions though.
+Repositories whose names start with `learning-` are personal notes. Open an issue for suggestions; do not send drive-by pull requests unless Krish asked for one.
 
-## 🏮 Roles
+## Pull requests
 
-| Role        	| Reponsibility                                                 	| How to achieve?                                                                                                                                                	|
-|-------------	|---------------------------------------------------------------	|----------------------------------------------------------------------------------------------------------------------------------------------------------------	|
-| Krish       	| Maintenance of all repositories and the maintainer team.      	| —                                                                                                                                                              	|
-| Maintainer  	| Maintaining the project they are assigned as a maintainer to. 	| Maintainers are only taken in for active repositories, that need a lot of maintenance.<br>It is generally picked out of active contributors of the repository. 	|
-| Contributor 	| —                                                             	| Anyone can start contributing :) Start by reading the contributing guide.                                                                                      	|
+Humans and coding agents may open pull requests. Agents should follow each repo’s own agent instructions when those exist.
 
-## 🧠 Decision Making
+A change may be merged by Krish, or by an agent he has already tasked with the work, when:
 
-- For the project discussions, they are made publicly, in the community. It is democratic, but the maintainer's views weigh a little bit more considering their contributions to the project.
-- For private discussions, such as **moderation** actions or picking new maintainers, these discussions are kept private between the **maintainers**.
+- The pull request is ready for review (not a draft).
+- A review has been requested and enough time has passed to wait for it.
+- Any review received is not clearly wrong or harmful to merge.
+
+There is no separate maintainer ladder or promotion path from human contributor activity.
+
+## Discussion
+
+Project direction and tradeoffs can be discussed in public issues and pull requests.
+
+Security reports and moderation stay private. See `SECURITY.md` for vulnerabilities.
