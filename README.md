@@ -19,6 +19,6 @@ GitHub applies these defaults to public repos under the account that do not defi
 
 ## Label names
 
-`config/labels.json` lists the label names, descriptions, and colors used by the issue templates here. Other repositories can copy or sync the same file so names stay aligned with [ikrishg/config-github](https://github.com/ikrishg/config-github/blob/main/config/labels.json).
+`config/labels.json` lists the label names, descriptions, and colors used by the issue templates here. Other repositories can copy or sync the same file so names stay aligned with [ikrishg/github-liege](https://github.com/ikrishg/github-liege/blob/main/config/labels.json).
 
 Owner: Krish Gupta ([@ikrishg](https://github.com/ikrishg)).
